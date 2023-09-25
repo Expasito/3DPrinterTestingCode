@@ -9,4 +9,5 @@ There really isn't much more to say on this for the software side of things. I h
 
 <br>
 Below is a link to a picture of the 3d printer. In the picture, the printer is making an air director for the cooling fan so the tip of the nosle gets cooled and avoids cooling the heating block. The printer, so far, has been printing reliably and is making its own parts to make the system better.
-(https://github.com/Expasito/3DPrinterTestingCode/assets/93100379/e4e6e2bf-41b3-4169-9f69-7334d95af130)
+
+![270358938-5c90ceac-7781-4e1d-8e67-f5cf2f23cbdb](https://github.com/Expasito/3DPrinterTestingCode/assets/93100379/1b315639-215e-444f-be48-708dc4924ad9)
